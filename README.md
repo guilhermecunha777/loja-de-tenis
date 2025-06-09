@@ -4,12 +4,6 @@ Loja virtual de tênis desenvolvida com foco em praticar HTML, CSS e JavaScript.
 
 ---
 
-## 📸 Demonstração
-
-*Adicione uma imagem ou GIF aqui mostrando o funcionamento do projeto.*
-
----
-
 ## 🧰 Tecnologias Utilizadas
 
 - HTML5
